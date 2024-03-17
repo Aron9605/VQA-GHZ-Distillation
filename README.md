@@ -1,6 +1,6 @@
-# VQA-GHZ-Distillation
+# GHZ-Distillation via variational quantum algorithm
 
-This project contains the Wolfram Mathematica notebook (*VQA-GHZDistillation.nb*) for the reproduction of essential results of the '*Training iterated protocols for distillation of GHZ states with variational quantum algorithms.*' article. [ref. [	arXiv.2311.04646](https://doi.org/10.48550/arXiv.2311.04646
+This project contains the Wolfram Mathematica notebook (*VQA-GHZDistillation.nb*) for the reproduction of essential results of the '*Training iterated protocols for distillation of GHZ states with variational quantum algorithms.*' article. [ref. [Physics Letters A](https://doi.org/10.1016/j.physleta.2024.129349
 )]
 
 The study has been submitted to a scientific journal; the corresponding authors are **Aron Rozgonyi**[1,2], **Gabor Szechenyi**[1,2], **Orsolya Kalman**[2] and **Tamas Kiss**[2].
